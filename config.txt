@@ -1,0 +1,8 @@
+Max Simultaneous Connections : 5
+Connection Type : Non-Persistent
+Document Root : uploads
+Cookie File : cookies.txt
+Log File : logs.txt
+
+# we just want the parameters per line and not their headers
+# so we can iterate line by line to get default types
